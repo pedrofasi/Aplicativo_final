@@ -14,3 +14,5 @@ A aplicação consta com uma tela de login, que possui as opções de entrada di
  A aplicação utilizou-se de um banco de dados SQLServer, com auxilio do Visual Studio 2019, para realizar códigos de backend, e a API foi utilizada de forma gratuíta.
 
 ## Video no Youtube
+
+https://youtu.be/7sHdZ9YFDb0
